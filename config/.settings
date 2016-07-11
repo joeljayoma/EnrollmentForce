@@ -1,0 +1,19 @@
+{
+    "username": "joeljayoma2@gmail.com", 
+    "environment": "developer", 
+    "project_name": "EnrollmentForce", 
+    "workspace": "/Users/joeljayoma/Documents/SUBLIME_WS", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "PRCRFBZFOTCP0VZ1KMLVMU44EQ2RXY4C", 
+    "metadata_container": "1dc28000000n0x1AAA", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
